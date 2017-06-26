@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY xnote "XNote">
+<!ENTITY preferences "Настройки">
+<!ENTITY btn.browse "Browse...">
+<!ENTITY Window.defaults "Окно по умолчанию">
+<!ENTITY Width "Ширина">
+<!ENTITY Height "Высота">
+<!ENTITY storage.path "Путь к хранилищу">
+<!ENTITY Message.tag "Метка">
+<!ENTITY Name "Название">
+<!ENTITY Color "Цвет">
+<!ENTITY use.tag "Использовать метки?">
+<!ENTITY Behavior "Режим">
+<!ENTITY show.on.select "Показывать при выделении письма">
+<!ENTITY show.first.x.chars.in.col "Показывать первые X символов в колонке XNote">

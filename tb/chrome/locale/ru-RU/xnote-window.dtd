@@ -1,0 +1,7 @@
+<!-- encoding='UTF-8' -->
+
+<!ENTITY xnote 'XNote'>
+
+<!ENTITY close 'Сохранить и закрыть'>
+<!ENTITY suppr 'Удалить заметку'>
+<!ENTITY xnote.ask.deletion 'Вы уверены, что хотите удалить заметку?'>

@@ -1,0 +1,15 @@
+<!-- encoding="UTF-8" -->
+
+<!ENTITY xnote.label "XNote">
+<!ENTITY xnote.key "X">
+
+<!ENTITY ajout.label "Создать заметку">
+<!ENTITY ajout.key "C">
+<!ENTITY modif.label "Изменить заметку">
+<!ENTITY modif.key "M">
+<!ENTITY suppr.label "Удалить заметку">
+<!ENTITY suppr.key "D">
+
+<!ENTITY resetNoteWindow.label "Сбросить настройки окна">
+
+<!ENTITY header.label "Нажмите для сортировки по заменткам">
